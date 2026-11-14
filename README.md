@@ -6,7 +6,7 @@ AI+X 기초 프로젝트 · 지하철 이용승객 EDA · 이서준 · 2026년 1
 
 ![표지](images/slide01.png)
 
-📄 [발표 자료 전체 보기 (PDF, 정리본 35장)](slides/%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%9D%B4%EC%9A%A9%EC%8A%B9%EA%B0%9D%20EDA%20%26%20%EC%84%B1%EC%88%98%2C%20%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%20%EC%BB%A4%EC%A7%88%EA%B9%8C_%EC%A0%95%EB%A6%AC%EB%B3%B8.pdf) ([발표 당일 원본 36장](slides/%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%9D%B4%EC%9A%A9%EC%8A%B9%EA%B0%9D%20EDA%20%26%20%EC%84%B1%EC%88%98%2C%20%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%20%EC%BB%A4%EC%A7%88%EA%B9%8C.pdf)) · 🗺️ [Q8 2호선 Folium 지도](map/Q8_2호선_folium.html) · 💻 [재현 코드](code/)
+📄 [발표 자료 전체 보기 (PDF, 정리본 35장)](slides/%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%9D%B4%EC%9A%A9%EC%8A%B9%EA%B0%9D%20EDA%20%26%20%EC%84%B1%EC%88%98%2C%20%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%20%EC%BB%A4%EC%A7%88%EA%B9%8C_%EC%A0%95%EB%A6%AC%EB%B3%B8.pdf) 🗺️ [Q8 2호선 Folium 지도](map/Q8_2호선_folium.html) · 💻 [재현 코드](code/)
 
 **역할**: 5인 팀 프로젝트에서 기획·분석 총괄, 통합 발표자료 제작, Part 1\~3 분석과 재현 코드 작성 (개강 효과 분석은 팀원 분석을 받아 재현 코드로 정리)  
 **기술**: Python · pandas · NumPy · SciPy · statsmodels · scikit-posthocs · matplotlib · seaborn · Folium
